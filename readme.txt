@@ -3,3 +3,5 @@ Git is free software.
 hallo git!
 this is the third version!
 Git has a mutable index called stage.
+Git tracks changes.
+
